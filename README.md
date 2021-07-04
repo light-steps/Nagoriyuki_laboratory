@@ -1,2 +1,5 @@
 # Nagoriyuki_laboratory
 名残雪に関する情報をまとめます
+
+主にwikiページに整理したい
+記入したい内容はIssuesに挙げていく形式で
